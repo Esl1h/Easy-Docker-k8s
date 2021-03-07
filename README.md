@@ -110,6 +110,7 @@ Atualize:
 ### kubeconfig
 
 Ao lado do icone do rancher, deve estar como "Global", vá para "local".
+
 Na tela de Local, no lado direito, haverá o botão "kubeconfig file".
 
 Clique nele e siga os passos da tela, ou seja, coloque o conteudo do arquivo dentro ~/.kube/config
@@ -132,5 +133,8 @@ Se tiver outro host (uma VM ou outro raspberry Pi, por exemplo), dá para config
 ## links:
 
 https://docs.docker.com/engine/install
+
 https://kubernetes.io/docs/tasks/tools/install-kubectl/#install-kubectl
+
 https://helm.sh/docs/intro/install/
+
